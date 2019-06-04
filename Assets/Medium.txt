@@ -1,0 +1,5 @@
+prisoner
+handcuffs
+holster
+uniform
+arrest
